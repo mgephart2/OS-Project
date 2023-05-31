@@ -1,7 +1,7 @@
 /**
 * COSC 3250 - Project 4
 * Allow multiple cores to operate a once
-* @authors Michael Gephart
+* @author Michael Gephart
 * Instructor Sabirat Rubya
 * TA-BOT:MAILTO michael.gephart@marquette.edu
 */
